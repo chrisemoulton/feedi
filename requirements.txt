@@ -7,7 +7,7 @@ flask-sqlalchemy>=3.0.5
 beautifulsoup4>=4.12.2
 lxml>=4.9.3
 Mastodon-py>=1.8.1
-gevent==23.7.0
+gevent==23.9.0
 huey==2.4.5
 alembic==1.11.2
 stkclient==0.1.1
